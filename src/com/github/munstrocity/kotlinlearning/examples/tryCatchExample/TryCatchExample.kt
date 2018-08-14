@@ -1,7 +1,7 @@
-package com.github.munstrocity.kotlinlearning.examples.examples.tryCatchExample
+package com.github.munstrocity.kotlinlearning.examples.tryCatchExample
 
-import com.github.munstrocity.kotlinlearning.examples.examples.Example
-import com.github.munstrocity.kotlinlearning.examples.examples.ExampleValue
+import com.github.munstrocity.kotlinlearning.examples.Example
+import com.github.munstrocity.kotlinlearning.examples.ExampleValue
 
 // The ? indicates the value can be nullable
 private fun parseInt (str: String): String? {

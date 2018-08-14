@@ -1,6 +1,6 @@
-package com.github.munstrocity.kotlinlearning.examples.debug
+package com.github.munstrocity.kotlinlearning.debug
 
-import com.github.munstrocity.kotlinlearning.examples.examples.Example
+import com.github.munstrocity.kotlinlearning.examples.Example
 
 // Quick easy way to print stuffs
 fun printResults (results: List<Example>) {

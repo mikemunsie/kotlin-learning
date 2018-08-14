@@ -1,13 +1,12 @@
-package com.github.munstrocity.kotlinlearning.examples.examples.typeCheckingExample
+package com.github.munstrocity.kotlinlearning.examples.typeCheckingExample
 
-import com.github.munstrocity.kotlinlearning.examples.examples.Example
-import com.github.munstrocity.kotlinlearning.examples.examples.ExampleValue
+import com.github.munstrocity.kotlinlearning.examples.Example
+import com.github.munstrocity.kotlinlearning.examples.ExampleValue
 
 // Easy type checking
 private fun isString(str: Any): Boolean {
     return str is String
 }
-
 
 class TypeCheckingExample : Example {
     override val name = "Type Checking"

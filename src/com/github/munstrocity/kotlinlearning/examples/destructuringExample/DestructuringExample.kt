@@ -1,7 +1,7 @@
-package com.github.munstrocity.kotlinlearning.examples.examples.destructuringExample
+package com.github.munstrocity.kotlinlearning.examples.destructuringExample
 
-import com.github.munstrocity.kotlinlearning.examples.examples.Example
-import com.github.munstrocity.kotlinlearning.examples.examples.ExampleValue
+import com.github.munstrocity.kotlinlearning.examples.Example
+import com.github.munstrocity.kotlinlearning.examples.ExampleValue
 
 private data class Result(val result: Int, val status: String)
 

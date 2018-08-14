@@ -1,4 +1,4 @@
-package com.github.munstrocity.kotlinlearning.examples.examples
+package com.github.munstrocity.kotlinlearning.examples
 
 interface Example {
     val name: String

@@ -1,7 +1,7 @@
-package com.github.munstrocity.kotlinlearning.examples.examples.switchCaseExample
+package com.github.munstrocity.kotlinlearning.examples.switchCaseExample
 
-import com.github.munstrocity.kotlinlearning.examples.examples.Example
-import com.github.munstrocity.kotlinlearning.examples.examples.ExampleValue
+import com.github.munstrocity.kotlinlearning.examples.Example
+import com.github.munstrocity.kotlinlearning.examples.ExampleValue
 
 // To create an object, you won't need the new keyword
 // Switch statements use when

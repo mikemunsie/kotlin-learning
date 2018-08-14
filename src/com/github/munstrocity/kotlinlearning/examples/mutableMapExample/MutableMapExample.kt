@@ -1,7 +1,7 @@
-package com.github.munstrocity.kotlinlearning.examples.examples.mutableMapExample
+package com.github.munstrocity.kotlinlearning.examples.mutableMapExample
 
-import com.github.munstrocity.kotlinlearning.examples.examples.Example
-import com.github.munstrocity.kotlinlearning.examples.examples.ExampleValue
+import com.github.munstrocity.kotlinlearning.examples.Example
+import com.github.munstrocity.kotlinlearning.examples.ExampleValue
 
 class MutableMapExample : Example {
     override val name = "Mutable Map"

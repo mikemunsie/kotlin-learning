@@ -1,7 +1,7 @@
-package com.github.munstrocity.kotlinlearning.examples.examples.ternaryExample
+package com.github.munstrocity.kotlinlearning.examples.ternaryExample
 
-import com.github.munstrocity.kotlinlearning.examples.examples.Example
-import com.github.munstrocity.kotlinlearning.examples.examples.ExampleValue
+import com.github.munstrocity.kotlinlearning.examples.Example
+import com.github.munstrocity.kotlinlearning.examples.ExampleValue
 
 // No ternaryExample operators needed
 private fun max(a: Int, b: Int) = if (a > b) a else b
