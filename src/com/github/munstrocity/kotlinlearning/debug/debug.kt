@@ -5,14 +5,15 @@ import com.github.munstrocity.kotlinlearning.examples.Example
 // Quick easy way to print stuffs
 fun printResults (results: List<Example>) {
     results.forEach { exampleClass ->
-        println("")
-        println("")
-        println(exampleClass.name)
+        println("\n\n${exampleClass.name}")
         println("==============================")
         exampleClass.getValues().forEach { value ->
             val (title, resultValue) = value
-            println("")
             println("$title: $resultValue")
         }
     }
+}
+
+fun printResult (name: String, value: String) {
+    println("$name: $value")
 }
