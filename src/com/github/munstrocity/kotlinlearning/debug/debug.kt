@@ -14,6 +14,6 @@ fun printResults (results: List<Example>) {
     }
 }
 
-fun printResult (name: String, value: String) {
-    println("$name: $value")
+fun printResult (name: String, value: Any?) {
+    println("$name: ${value.toString()}")
 }

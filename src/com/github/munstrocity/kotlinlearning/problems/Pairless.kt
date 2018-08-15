@@ -5,7 +5,7 @@
  * For example in this array:
  *   1, 2, 1, 2
  * every number has a pair, but in this one:
- *   1, 1, 1
+ *   1, 1, 0, 1, 1
  * one of the ones is lonely.
  *
  * Your task is to implement the findPairless() function so that it finds the
